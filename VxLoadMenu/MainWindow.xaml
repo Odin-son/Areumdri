@@ -26,7 +26,7 @@
         </Style>
     </Window.Resources>
     <Grid>
-        <Image Name="imgBack" Source="background.png" Opacity="0.5" Width="300" Height="200"/>
+        <Image Name="imgBack" Source="background.png" Opacity="0.5"/>
         <TextBlock Name="tblTest" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
     </Grid>
 </Window>
