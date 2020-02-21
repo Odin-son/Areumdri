@@ -76,6 +76,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="background.jpg" />
     <Content Include="ic_restaurant_menu_128_28738.ico" />
     <None Include="Resources\Image1.png" />
   </ItemGroup>
